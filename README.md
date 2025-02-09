@@ -1,1 +1,2 @@
 # Syracuse-Orange-Hoops
+Analyzed Syracuse University basketball performance using Python (Pandas, Matplotlib, Seaborn) by extracting, cleaning, and processing game statistics. Conducted trend analysis on player performance, evaluating scoring efficiency, defensive contributions, and overall team dynamics across multiple seasons. Developed visualizations to highlight key performance indicators and insights.
